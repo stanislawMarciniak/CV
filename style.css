@@ -11,6 +11,7 @@ h1 {
 
 h2 {
     font-size: 28px;
+    margin-top: -13px;
 }
 
 h3 {
@@ -38,7 +39,7 @@ header {
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
-    padding-top: 60px;
+    padding-top: 20px;
 }
 
 header ul {
@@ -134,4 +135,9 @@ address {
 }
 .list {
     margin-right: 100px;
+}
+
+.langAndTech {
+    display: flex;
+    flex-direction: row;
 }
