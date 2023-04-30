@@ -127,3 +127,11 @@ p{
 address {
     width: 420px;
 }
+
+.technologies {
+    display: flex;
+    flex-direction: row;
+}
+.list {
+    margin-right: 100px;
+}
